@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "David Boyer, Developer, Site Launch
+title: "David Boyer, Developer, Site Launch"
 date: 2016-08-22
 ---
 Well finally got around to putting up some type of site to enhance my career.  
